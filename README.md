@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">What's Up?</h1>
+<h1 align="center">Hey, What's Up? <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"></h1>
 
 ###
 
